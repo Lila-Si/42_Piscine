@@ -1,0 +1,5 @@
+### Instructions
+Dans un fichier "midLS", placer la commande qui liste tous les fichiers et dossiers dans le répertoire actuel (excepté les fichiers cachés), séparé par des virgules, et par ordre de date de modifications. Soit sur que les noms des dossiers sont suivi d'un slash.
+
+### Résolution
+Création du fichier avec nano puis commande "ls -mpt" je crois que ce n'était pas elle exactement mais c'est dans le même esprit.

@@ -1,0 +1,5 @@
+### Instructions
+Créer une clé SSH puis ajouter celle publique sous le fichier "id_rsa_pub". Rajoute la clé SSH sur l'intranet.
+
+### Résolution
+Si je ne me trompe pas c'était "ssh-keygen -t rsa", ensuite juste une copie du fichier vers id_rsa_pub avec cp.

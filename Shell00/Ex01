@@ -1,0 +1,6 @@
+### Instructions
+Créer un fichier nommé testShell00 qui doit ressembler à l'exacte image (image qui comprennait des permissions, date et octet spéciaux).
+
+### Résolution
+Je ne me souviens plus des commandes dans leur exactitude.  
+Chmod pour les permissions, truncate pour la taille et touch pour la date.

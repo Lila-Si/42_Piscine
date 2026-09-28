@@ -1,0 +1,5 @@
+### Instructions
+Créer des dossiers et fichiers qui avec la sortie de ls -l ressemble exactement à l'image.
+
+### Résolution
+Similaire à avant (dates, permissions, taille...), avec des dossiers et des liens symbolique supplémentaires. Mkdir pour les dossiers. Je ne me souviens plus de la commande pour faire le lien symbolique.

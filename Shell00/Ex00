@@ -1,0 +1,5 @@
+### Instructions
+Créer un fichier nommé z qui retourne Z suivi d'une nouvelle ligne quand la commande cat est utilisé dessus.
+
+### Résolution
+Un simple nano plus le contenu demandé

@@ -39,3 +39,15 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 04 : ft_ultimate_div_mod
  - Exercice 05 : ft_putstr
  - Exercice 06 : ft_strlen
+
+### C 02
+ - Exercice 00 : ft_strcpy
+ - Exercice 01 : ft_strncpy
+ - Exercice 02 : ft_str_is_alpha
+ - Exercice 03 : ft_str_is_numeric
+ - Exercice 04 : ft_str_is_lowercase
+ - Exercice 05 : ft_str_is_uppercase
+ - Exercice 06 : ft_str_is_printable
+ - Exercice 07 : ft_strupcase
+ - Exercice 08 : ft_strlowcase
+ - Exercice 09 : ft_strcapitalize

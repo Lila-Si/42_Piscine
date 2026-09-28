@@ -30,3 +30,12 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
 - Exercice 02 : ft_print_reverse_alphabet
 - Exercice 03 : ft_print_numbers
 - Exercice 04 : ft_is_negative
+
+### C 01
+ - Exercice 00 : ft_ft
+ - Exercice 01 : ft_ultimate_ft
+ - Exercice 02 : ft_swap
+ - Exercice 03 : ft_div_mod
+ - Exercice 04 : ft_ultimate_div_mod
+ - Exercice 05 : ft_putstr
+ - Exercice 06 : ft_strlen

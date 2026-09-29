@@ -90,3 +90,5 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 01 : ft_boolean.h
  - Exercice 02 : ft_abs.h
  - Exercice 03 : ft_point.h
+
+À noter : un ou deux exercices n'étaient pas passés à la moulinette. Ne me souvenant plus de lesquels, je les ai malgré tout tous mis.

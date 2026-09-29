@@ -64,3 +64,12 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 01 : ft_putstr
  - Exercice 02 : ft_putnbr
  - Exercice 03 : ft_atoi
+
+### C 05
+ - Exercice 00 : ft_iterative_factorial
+ - Exercice 01 : ft_recursive_factorial
+ - Exercice 02 : ft_iterative_power
+ - Exercice 03 : ft_recursive_power
+ - Exercice 04 : ft_fibonacci
+ - Exercice 05 : ft_sqrt
+ - Exercice 06 : ft_is_prime

@@ -73,3 +73,8 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 04 : ft_fibonacci
  - Exercice 05 : ft_sqrt
  - Exercice 06 : ft_is_prime
+
+### C 06
+ - Exercice 00 : ft_print_program_name
+ - Exercice 01 : ft_print_params
+ - Exercice 02 : ft_rev_params

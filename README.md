@@ -78,3 +78,9 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 00 : ft_print_program_name
  - Exercice 01 : ft_print_params
  - Exercice 02 : ft_rev_params
+
+### C 07
+ - Exercice 00 : ft_strdup
+ - Exercice 01 : ft_range
+ - Exercice 02 : ft_ultimate_range
+ - Exercice 03 : ft_strjoin

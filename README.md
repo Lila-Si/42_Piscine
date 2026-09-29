@@ -58,3 +58,9 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 02 : ft_strcat
  - Exercice 03 : ft_strncat
  - Exercice 04 : ft_strstr
+
+### C 04
+ - Exercice 00 : ft_strlen
+ - Exercice 01 : ft_putstr
+ - Exercice 02 : ft_putnbr
+ - Exercice 03 : ft_atoi

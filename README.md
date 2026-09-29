@@ -51,3 +51,10 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 07 : ft_strupcase
  - Exercice 08 : ft_strlowcase
  - Exercice 09 : ft_strcapitalize
+
+### C 03
+ - Exercice 00 : ft_strcmp
+ - Exercice 01 : ft_strncmp
+ - Exercice 02 : ft_strcat
+ - Exercice 03 : ft_strncat
+ - Exercice 04 : ft_strstr

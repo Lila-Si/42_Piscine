@@ -84,3 +84,9 @@ Ci-dessous la liste de tous les exercices que j'ai été amené à faire.
  - Exercice 01 : ft_range
  - Exercice 02 : ft_ultimate_range
  - Exercice 03 : ft_strjoin
+
+### C 08
+ - Exercice 00 : ft.h
+ - Exercice 01 : ft_boolean.h
+ - Exercice 02 : ft_abs.h
+ - Exercice 03 : ft_point.h
